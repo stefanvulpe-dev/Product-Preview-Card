@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See here](https://github.com/stefanvulpe-dev/Huddle-Landing-Page)
-- Live Site URL: [See here](https://stefanvulpe-dev.github.io/Huddle-Landing-Page/)
+- Solution URL: [See here](https://github.com/stefanvulpe-dev/Product-Preview-Card)
+- Live Site URL: [See here](https://stefanvulpe-dev.github.io/Product-Preview-Card/)
 
 ## Built with
 
