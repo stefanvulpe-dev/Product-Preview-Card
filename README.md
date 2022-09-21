@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-- [Desktop View](./screenshots/desktop-view.png)
-- [Mobile View](./screenshots/mobile-view.png)
+![Desktop View](./screenshots/desktop-view.png)
+![Mobile View](./screenshots/mobile-view.png)
 
 ### Links
 
